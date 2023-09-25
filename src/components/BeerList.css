@@ -1,0 +1,18 @@
+/* src/components/BeerList.css */
+.beer-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .beer-card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    width: 200px;
+  }
+  
+  .beer-card img {
+    max-width: 100%;
+    height: auto;
+  }
+  
